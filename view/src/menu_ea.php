@@ -1,11 +1,10 @@
 <?php
-
 /* 
  * @description: Menu do site aberto de internet
  * @version:     0.1
  * @author:      David Jeiel
  */
-;?>
+?>
 
 <header>
     <nav id="headNav" class="navbar navbar-default ms-nav-anim navbar-fixed-top" role="navigation">
@@ -25,9 +24,10 @@
        <!-- Collect the nav links, forms, and other content for toggling -->
        <div class="collapse navbar-collapse ms-anim-nav-bar navbar-ex1-collapse pull-right">
           <ul id="nav" class="nav navbar-nav ">
-             <li class="active"><a href="#intro"><i class=" fa fa-home"></i>Home</a></li>
-             <li><a id="servicesTrigg" href="#services"><i class="glyphicon glyphicon-briefcase"></i>Empreendedor</a></li>
-             <li><a href="#portfolio"><i class="fa fa-desktop"></i>Investidor</a></li>
+             <li class="active"><a href="#intro"><i class=" fa fa-home"></i>Simulações</a></li>
+             <li><a id="servicesTrigg" href="#segmentos"><i class="glyphicon glyphicon-briefcase"></i>Segmentos</a></li>
+             <li><a href="#portfolio"><i class="fa fa-desktop"></i>Portfolio</a></li>
+             <li><a href="#depoimentos"><i class="fa fa-desktop"></i>Depoimentos</a></li>
              <li><a href="#contact"><i class="fa fa-comments-o"></i>Fale conosco</a></li>
           </ul>
        </div>
