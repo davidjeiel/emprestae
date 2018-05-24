@@ -14,17 +14,28 @@
                                      padding-bottom: 30px;"
                              class="col-md-12"
                         >
+                          <div class="row">
+                            <div class="page-header">
+                                <h3 align="center" style="color: #314458;">
+                                    Olá, Somos a EmprestAê!
+                                    
+                                </h3>
+                            </div>  
+                            <h4 align="center" style="color: #314458;">
+                                Aqui você pode tomar empréstimos com juros justos ou ter suporte para emprestar com segurança.
+                            </h4>
+                          </div>
                           <div class="col-md-6">
                              <h1 style="color: #314458;">Invista em pessoas</h1>
                              <h3 style="color: #314458;">Faça empréstimos determinando a taxa que você acredita ser justa</h3>
-                             <a type="button" class="btn btn-default btn-lg">
+                             <a type="button" class="btn btn-success btn-lg">
                                 Simule
                              </a>   
                           </div>
                           <div class="col-md-6">
-                             <h1 style="color: #314458;">Escolha a melhor opção!</h1>                            
+                             <h1 style="color: #314458;">Os menores juros!</h1>                            
                              <h3 style="color: #314458;">Faça empréstimos escolhendo a taxa de juros que você acredita ser justa</h3>
-                             <a type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#modal_login">
+                             <a type="button" class="btn btn-success btn-lg" data-toggle="modal" data-target="#modal_login">
                                 Simule
                              </a>   
                           </div> 
@@ -35,15 +46,15 @@
             </div>
             <a class="scroll-down"><i class=" fa  fa-chevron-down"></i></a>
          </section>
-         <section id="segmentos" class="cbp-so-section sec-port-main main-spacer clear-inner-space">
+          <section id="segmentos" class="cbp-so-section sec-port-main main-spacer clear-inner-space">
             <div class="container-fluid sec-head-main text-center">
                <div class="sec-head-each  first">                  
                   <span class="glyphicon glyphicon-knight"></span>
-                  <h1 class="sec-head">Tomador <i> ou </i> Investidor </h1>
+                  <h1 class="sec-head" style="color: #314458;">Tomador <i> ou </i> Investidor </h1>
                </div>
-               <div class="sec-head-each  second">Nos temos a melhor opção</div>
+               <div class="sec-head-each  second"  style="color: #314458;">Nos temos a melhor opção</div>
             </div>
-            <div class=" container-fluid">
+            <div class=" container-fluid"  style="padding-bottom: 25px;">
                <div class="container services-table">
                   <div class="row">
                      <div class=" col-xs-6 col-md-6 col-lg-6 ">
@@ -52,7 +63,13 @@
                         </div>
                         <div class="container-fluid text-center">
                            <h4 style="color: #314458;">Uma forma inteligente de realizar seus empréstimos!</h4>
-                           <p align="justify" style="color: #314458;">Você informa qual taxa de juros está disposto a pagar e alguém que acredita ser um valor justo te empresta diretamente.</p>
+                           <!--
+                           <p align="center" style="color: #314458;">Você informa qual taxa de juros está disposto a pagar e alguém que acredita ser um valor justo te empresta diretamente.</p>
+                           -->
+                           <p align="center" style="color: #314458;">Você não precisa enfrentar filas ou de uma avaliação de perfil que demora dias e ainda escolhe a taxa de juros, tudo é na hora e a vida segue sem enrolações.</p>
+                           <div align="center">
+                               <img class="img-responsive" style="border-radius: 10px;" src="mdl/img/_4913920_orig.jpg">
+                           </div>
                         </div>
                      </div>
                      <div class=" col-xs-6 col-md-6 col-lg-6">
@@ -61,8 +78,10 @@
                         </div>
                         <div class="container-fluid text-center">
                            <h4 style="color: #314458;">As melhores opções</h4>
-                           <p align="justify" style="color: #314458;">Se você está cansado dos métodos de investimento, este é o seu lugar.</p>
-                           <p align="justify" style="color: #314458;">As opções de negócio são diversificadas como você nunca viu igual.</p>
+                           <p align="center" style="color: #314458;">Se você está cansado dos métodos de investimento, este é o seu lugar. As opções de negócio são diversificadas e transparentes como você nunca viu igual.</p>
+                           <div>
+                               <img class="img-responsive" style="border-radius: 10px;" src="mdl/img/1-escolha.jpg">
+                           </div>
                         </div>
                      </div>             
                   </div>
